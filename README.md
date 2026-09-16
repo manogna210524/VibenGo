@@ -13,8 +13,7 @@
 
 - **Varun kumar reddy Bommireddy**  
 - **Adikam Manogna**
-- **Chetan**  
-- **Sairam**  
+- **Kondeti Praveen**
 > Developed under the guidance of **Dr. Subhra Mazumdar**, IIT Indore.
 
 ---
