@@ -1,4 +1,4 @@
-#  VibeNgo  
+#  VibenGo  
 *Hybrid Ride Booking App with Real-Time Carpool Integration*
 ![VibeNgo Logo](./assets/images/favicon.png) 
 ###  Live Demo
