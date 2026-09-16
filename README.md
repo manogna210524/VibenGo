@@ -11,7 +11,6 @@
 
 ### Contributors
 
-- **Varun kumar reddy Bommireddy**  
 - **Adikam Manogna**
 - **Kondeti Praveen**
 > Developed under the guidance of **Dr. Subhra Mazumdar**, IIT Indore.
@@ -104,7 +103,6 @@ npx expo start --tunnel
 
 👨‍💻 Contributors
 Manogna 
-Varun
 Praveen
 
 Deployment via Expo Hosting
